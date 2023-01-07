@@ -1,0 +1,254 @@
+* {
+    margin: 0;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.univsersal-btn {
+    height: 54px;
+    width: 140px;
+    font-size: 20px;
+    font-weight: 500;
+    color: #fff;
+    background-color: #F15B22;
+    border-radius: 5px;
+    border: none;
+}
+
+/* Start header section styles */
+.add-bg-img {
+    background-image: url(../images/banner/banner2.png);
+    height: 650px;
+    background-size: cover;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 60px;
+    color: #151414;
+}
+
+.header-description {
+    font-size: 16px;
+    font-weight: 400;
+    padding-top: 24px;
+    padding-bottom: 34px;
+}
+
+.move-right-side {
+    text-align: left;
+    padding-top: 170px;
+    padding-left: 750px;
+    padding-right: 90px;
+}
+
+/* Start failures of previous year section */
+.fail-section {
+    display: flex;
+    background-color: #fff;
+    align-items: center;
+    gap: 44px;
+    padding: 70px 0;
+}
+
+.fail-description-div {
+    padding-right: 200px;
+    padding-left: 30px;
+}
+
+.failures-title {
+    color: #151414;
+    font-wetght: 700;
+    font-size: 40px;
+}
+
+.failures-description {
+    font-size: 16px;
+    font-weight: 400;
+    color: #444343;
+    ;
+    margin-top: 22px;
+}
+
+.img-bedi {
+    padding-left: 100px;
+}
+
+.fail-description-div div p {
+    line-height: 32px;
+}
+
+.fail-description-div div p i {
+    color: #16D887;
+}
+
+/* Start own design styles */
+.own-design {
+    display: flex;
+    gap: 60px;
+    padding: 80px 120px;
+}
+
+.vedio-content h6 {
+    color: #151414;
+    font-wetght: 400;
+    font-size: 16px;
+    /* margin-top: 30px; */
+    margin: 40px 0px 1px 0;
+}
+
+.vedio-content h2 {
+    color: #151414;
+    font-wetght: 600;
+    font-size: 45px;
+    margin-bottom: 30px;
+}
+
+.vedio-content p {
+    color: #737272;
+    font-size: 14px;
+    margin-bottom: 26px;
+}
+
+.vedio-content button {
+    height: 54px;
+    width: 140px;
+    font-size: 20px;
+    font-weight: 500;
+    color: #fff;
+    background-color: #F15B22;
+    border-radius: 5px;
+    border: none;
+}
+
+/* Start My Plans styles */
+.my-plans-section {
+    padding: 80px 120px;
+}
+
+.plan-title {
+    color: ##151414;
+    font-size: 40px;
+    font-weight: 700;
+    text-align: center
+}
+
+.wishes {
+    display: flex;
+    gap: 20px;
+    margin-top: 40px;
+    text-align: center;
+}
+
+.plan-sub-title {
+    color: #151414;
+    font-size: 30px;
+    font-weight: 560;
+}
+
+.plan-sub-title-description {
+    color: #737272;
+    font-size: 25px;
+}
+
+/* Start positive mindset styles*/
+.positive-mindset-section {
+    background: linear-gradient(to right, rgba(241, 93, 34, 0.712), rgba(255, 255, 255, 0.548)), url(../images/watch.png);
+    background-size: cover;
+    background-position: center;
+    margin: 60px 120px;
+    padding: 40px 50px;
+    border-radius: 10px;
+}
+
+.positive-mindset-title {
+    font-size: 40px;
+    font-weight: 700;
+    color: #fff;
+}
+
+.mindset-btn {
+    height: 54px;
+    width: 140px;
+    background-color: #fff;
+    color: #F15B22;
+    border-radius: 5px;
+    border: none;
+    margin-top: 20px;
+}
+
+/* Start footer */
+footer {
+    display: flex;
+    gap: 50px;
+    background-color: #151414;
+    padding: 100px 120px;
+}
+
+.footer-title {
+    color: #F8F8F8;
+    font-weight: 700;
+    font-size: 45px;
+}
+
+.footer-description {
+    color: #fff;
+    font-weight: 400;
+    font-size: 16px;
+    margin-top: 28px;
+}
+
+.form-label {
+    font-weight: 600;
+    font-size: 25px;
+    color: #fff;
+}
+
+input {
+    background: none;
+    color: #F3F3F3;
+
+}
+
+.email-input {
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.first-footer-div {
+    padding-right: 200px;
+
+}
+
+.second-footer-div {
+    padding-right: 200px;
+    padding-top: 20px;
+}
+
+.footer-icon {
+    margin-top: 20px;
+}
+
+.form-label {
+    margin-bottom: 30px;
+}
+
+.email-input {
+    font-weight: 400;
+    font-size: 18px;
+    background: transparent;
+    padding: 14px 40px;
+    border: 1px solid #F3F3F3;
+    border-radius: 5px;
+}
+
+.form-submit {
+    height: 54px;
+    width: 140px;
+    font-size: 20px;
+    font-weight: 500;
+    color: #F15B22;
+    background-color: #F3F3F3;
+    border-radius: 5px;
+    border: none;
+    margin-top: 20px;
+}
